@@ -1,0 +1,21 @@
+{
+  "name": "screepsmod-modloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modloader.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "screeps",
+    "modloader"
+  ],
+  "author": "Adam Shumann",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.1"
+  }
+}
