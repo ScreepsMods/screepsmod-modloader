@@ -1,4 +1,4 @@
 const ModLoader = require('./lib/ModLoader.js')
 
 let ml = new ModLoader()
-module.exports = ml.run
+module.exports = config=>ml.run(config)
